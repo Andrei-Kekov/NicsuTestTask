@@ -1,0 +1,6 @@
+@NicSuTestTask_HostAddress = http://localhost:5148
+
+GET {{NicSuTestTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
